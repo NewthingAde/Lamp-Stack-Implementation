@@ -7,7 +7,7 @@ This is a project which implement the use of Web Stack (LAMP STACK) In AWS
 - Move into the folder where the pair key is downloaded and run the following command to connect to the instance
         - `sudo chmod 0400 <private-key-name>.pem`
           
-       - `ssh -i <private-key-name>.pem ubuntu@<Public-IP-address>`
+        - `ssh -i <private-key-name>.pem ubuntu@<Public-IP-address>`
 
 ###  Install APACHE and Update the Firewall
 - Firat is to update a list of packages in package manager, the following command is used
