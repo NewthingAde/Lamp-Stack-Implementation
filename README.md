@@ -53,8 +53,6 @@ This is a project which implement the use of Web Stack (LAMP STACK) In AWS
                             sudo mysql
           
 - This will be display which shows that it is successful
-
- <img width="559" alt="Screenshot 2022-04-17 at 09 52 35" src="https://user-images.githubusercontent.com/80678596/163705771-3ce79a3d-275d-440d-83f8-676a7bf58109.png">
           
 - We can exit the server using the following command
 
