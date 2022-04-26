@@ -10,8 +10,6 @@ This is a project which implement the use of Web Stack (LAMP STACK) In AWS
           
               ssh -i <private-key-name>.pem ubuntu@<Public-IP-address>
 
-![1_rjSCzPSMk5IRdADnGOu47Q](https://user-images.githubusercontent.com/80678596/165380382-cee0c8f1-d528-44b7-8e07-dfec121e1413.png)
-
 ###  Install APACHE and Update the Firewall
 
 - Firat is to update a list of packages in package manager, the following command is used
